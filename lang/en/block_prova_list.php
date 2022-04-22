@@ -33,5 +33,6 @@
 //$string['hideallcourseslink'] = 'Hide \'All courses\' link';
 //$string['owncourses'] = 'Admin user sees own courses';
 $string['pluginname'] = 'Prova';
+$string['user_list'] = 'User List';
+
 //$string['privacy:metadata'] = 'The Courses block only shows data about courses and does not store any data itself.';
-$string['abb'] = 'Prova';
