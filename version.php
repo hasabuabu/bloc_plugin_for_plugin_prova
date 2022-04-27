@@ -17,8 +17,8 @@
 /**
  * Version details
  *
- * @package    block_course_list
- * @copyright  1999 onwards Martin Dougiamas (http://dougiamas.com)
+ * @package    block_prova_list
+ * @copyright  2022, Hasan Abuzoor <a21hasabuabu@inspedralbes.cat>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
